@@ -7,7 +7,7 @@ The application is able to check the operating system of user and install the ne
 
 ## Directory Structure
     .
-    ├── CLI shecode
+    ├── sca-cloud-application
     ├── setup.py             
     ├── pycli                  
     │   ├── main.py                
