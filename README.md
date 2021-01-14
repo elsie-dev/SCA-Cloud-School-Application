@@ -1,8 +1,8 @@
 # SCA-Cloud-School-Application
-This is a simple Command line interface that helps install wget,curl and nodejs.
+This is a simple Command line interface written in python,that helps install wget,curl and nodejs softwares.
 
 ## Importance
-The application is able to check the operating system of user and install the needed commands,it also checks if the softwares is installed and if its not installs.
+The python script is able to check the operating system of user and install the required softwares,it also checks if the software is not installed and then installs
 
 
 ## Directory Structure
