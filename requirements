@@ -1,0 +1,4 @@
+click==6.0
+node.js==10.9
+wget==1.11.4
+curl==7.74
